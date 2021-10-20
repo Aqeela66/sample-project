@@ -16,6 +16,6 @@ HTML, CSS, JavaScript, Bootstrap (for coding and implementation on UI)
 
 To run this app, click live github website link given below.
 
-Live link: 
-
+Live link:  https://aqeela66.github.io/sample-project/
+ 
 Repo Link: https://github.com/Aqeela66/sample-project
